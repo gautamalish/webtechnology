@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://images.app.goo.gl/768XdTiUJt1LXhLX7) ;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    font-family:"sans-serif";
+    color:green;
+    font-style:italic;
+    border-width:5px;
+    border-radius:10px;
+    border-top-style:dotted;
+    border-bottom-style:dotted;
+    border-left-style:double;
+    border-right-style:double
+}
+
+#heat{
+    color:red
+}
+#hi{
+    background-image:url("https://images.app.goo.gl/768XdTiUJt1LXhLX7")
+}
