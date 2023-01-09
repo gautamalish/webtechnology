@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Rubik+80s+Fade&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+font-family: Rubic 80s Fade;
+background-color: #ebab00;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.child1{
+    padding: 40px;
+    font-size: 4rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+}
+.child2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card{
+    width: 500px;
+}
+.card figure{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}

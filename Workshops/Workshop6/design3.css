@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: darkgreen;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+}
+figure img{
+    width: 50%;
+    padding-left: 50%;
+}
+.container{
+    display: flex;
+}
+h3{
+    font-size: 200%;
+    padding-bottom: 10%;
+    color: white;
+    padding-left: 20%;
+}
+.text{
+    padding-top: 15%;
+}
+.button a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: orange;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    transition: all 0.5s ease;
+  }
+.button a:hover {
+    background: black;
+    color: orange;
+  }
+h1{
+    color: white;
+    font-weight: 800%;
+    font-size: 300%;
+    padding-top: 10%;
+    padding-left: 20%;
+}
